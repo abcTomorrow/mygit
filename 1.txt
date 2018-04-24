@@ -1,5 +1,10 @@
 111
 master
 branch-02
+<<<<<<< HEAD
 branch-master
 22222222
+=======
+branch-0222
+2222221111
+>>>>>>> refs/heads/branch-02
